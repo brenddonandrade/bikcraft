@@ -10,6 +10,7 @@ h2,
 h3,
 h4,
 ul,
+li,
 p,
 blockquote {
   margin: 0px;
@@ -18,6 +19,7 @@ blockquote {
 ul {
   margin: 0px;
   list-style-type: none;
+  padding: 0;
 }
 
 a {
